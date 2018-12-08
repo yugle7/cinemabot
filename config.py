@@ -1,4 +1,2 @@
 TOKEN = '703840413:AAG6rJjhL-Zgw8yHWzdlzYOPZ4rnt7ugPjo'
-MY_ID = 164671585
 
-DB_FILENAME = 'botuploads.db'
